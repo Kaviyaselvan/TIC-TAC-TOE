@@ -1,0 +1,24 @@
+[[0 0 0]
+ [0 0 0]
+ [0 0 0]]
+Board after 1 move
+[[0 0 0]
+ [0 0 0]
+ [1 0 0]]
+Board after 2 move
+[[0 0 0]
+ [0 0 0]
+ [1 2 0]]
+Board after 3 move
+[[0 0 1]
+ [0 0 0]
+ [1 2 0]]
+Board after 4 move
+[[0 2 1]
+ [0 0 0]
+ [1 2 0]]
+Board after 5 move
+[[0 2 1]
+ [0 1 0]
+ [1 2 0]]
+Winner is: 1
